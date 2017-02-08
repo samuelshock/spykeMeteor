@@ -38,5 +38,6 @@ zimme:active-route
 gwendall:auth-client-callbacks
 meteortoys:allthings
 datariot:ganalytics
+dburles:google-maps
 
 check
